@@ -9,7 +9,7 @@ Data
 
 The dataset comprises information on the following parameters:
 
-    customers
-    orders
-    products
-    departments
+   1. customers
+   2. orders
+   3. products
+   4.  departments
